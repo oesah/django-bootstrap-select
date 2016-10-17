@@ -1,0 +1,13 @@
+include AUTHORS
+include LICENSE
+include DESCRIPTION
+include CHANGELOG.txt
+include README.md
+include tox.ini
+include runtests.py
+include requirements.txt
+include test_requirements.txt
+graft django_bootstrap_select
+global-exclude *.orig *.pyc *.log *.swp local_settings.py
+prune django_bootstrap_select/tests/coverage
+prune django_bootstrap_select/.ropeproject
