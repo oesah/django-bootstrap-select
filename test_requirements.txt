@@ -5,4 +5,4 @@ ipdb
 mixer
 mock
 tox
-django-compat
+django-compat==1.0.15
