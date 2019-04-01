@@ -4,5 +4,5 @@ flake8
 ipdb
 mixer
 mock
-tox
+tox==3.8.4
 django-compat
