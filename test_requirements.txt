@@ -1,7 +1,7 @@
 coverage
 fabric3
 flake8
-ipdb
+ipdb==0.13.3
 mixer
 mock
 tox
