@@ -1,4 +1,4 @@
-coverage
+coverage==6.1.1
 fabric3
 flake8
 ipdb
