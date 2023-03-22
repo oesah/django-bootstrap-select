@@ -79,3 +79,8 @@ If you want to contribute to this project, please perform the following steps
 In order to run the tests, simply execute ``tox``. This will install two new
 environments (for Django 1.8 and Django 1.9) and run the tests against both
 environments.
+
+Sponsorship
+-----------
+
+This project is maintained by `Mathison AG | Mobile & Web Development <https://mathison.ch>`_.
