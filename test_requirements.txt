@@ -3,6 +3,6 @@ fabric3
 flake8
 ipdb
 mixer
-mock
+mock==5.0.2
 tox
 django-compat
