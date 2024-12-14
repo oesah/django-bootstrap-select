@@ -2,7 +2,7 @@ coverage
 fabric3
 flake8
 ipdb
-mixer
+mixer==6.1.3
 mock
 tox
 django-compat
